@@ -21,7 +21,7 @@ Because in life people tend to hide their emotions and many negative emotions ca
 -----------------------------------------------------------------------------------------
 # Tests
 
-I started by simulating an Arduino sensor in TINKERCAD that would make the LEDs light up when they touched a specified area. So I thought that different colored LEDs would light up when people had different emotions arising.
+I started by simulating an Arduino sensor in TINKERCAD that would make the LED light up when they touched a specified area. So I thought that different colored LED would light up when people had different emotions arising.
 
 For example  ：
 
@@ -43,7 +43,7 @@ I've roughly simulated the effect of people wearing it.
 ----------------------------------------------------------------------------------------------------------
 
 # Other attempts
-After this, I worked on the Arduino sound sensor. and made it. It can be used to make LEDs light up through sound. The process was a bit complicated and we tried many times. But the end result was good. We managed to get the LEDs to light up with sound.
+After this, I worked on the Arduino sound sensor. and made it. It can be used to make LED light up through sound. The process was a bit complicated and we tried many times. But the end result was good. We managed to get the LED to light up with sound.
 
 I think such an Arduino sound sensor could be combined with many artworks. More interesting results could be achieved. For example some interesting sound interaction devices. Or some touch interaction devices. It's all very interesting.
 

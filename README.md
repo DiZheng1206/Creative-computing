@@ -4,7 +4,10 @@ I have had contact with Arduino-related work. So I've always been interested in 
 
 At first we tried to wire up an LED in class and although the LED didn't quite work out in the end we got to know the Arduino a little better in the process.
 
-![1201637281023_ pic](https://user-images.githubusercontent.com/94409189/142517191-b977da29-0ec5-4c88-9e5b-7e63a055163c.jpg)
+
+https://user-images.githubusercontent.com/94409189/142624736-b9dc1c41-6e94-4662-9cee-099af18650c6.MP4
+
+
 
 ----------------------------------------------------------------------------------------
 
@@ -47,8 +50,11 @@ I think such an Arduino sound sensor could be combined with many artworks. More 
 
 
 
-<img width="1063" alt="WX20211119-012921@2x" src="https://user-images.githubusercontent.com/94409189/142538430-f5f23cde-2eda-4a65-a535-97a20dab9925.png">
-<img width="1053" alt="WX20211119-012934@2x" src="https://user-images.githubusercontent.com/94409189/142538606-77d6e5b3-3ae4-4cef-815d-26756bee8337.png">
+
+https://user-images.githubusercontent.com/94409189/142624423-e1bc70a9-efaf-4d71-83e8-08970cc3ecd3.mp4
+
+
+
 
 
 -------------------------------------------------------------------------------------------------------------
